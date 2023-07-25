@@ -1,0 +1,7 @@
+img{width: 250px;height:250px;}
+.papa{display:flex;flex-direction: row;background-color: purple;}
+.pape{display:flex;flex-direction: row-reverse;background-color: aqua;}
+.papi{display: flex;flex-direction: column;background-color: blue;}
+.papo{display: flex;flex-direction: column-reverse;background-color: yellow;}
+.papu{display: flex;flex-wrap: nowrap;background-color: violet;}
+.papae{display: flex;flex-wrap: wrap;background-color: tomato;}
